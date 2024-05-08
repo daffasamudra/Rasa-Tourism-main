@@ -2,13 +2,13 @@
 
 web tentang kedai makanan dengan judul "Rasa Tourism"
 
-## featur
+## feature
 
 Sprint 1
 
-- Home
-- Menampilkan Menu
-- Menampilkan Promo
+Home - 3 halaman, menampilkan halaman home, menu, promo
+Menampilkan Menu - 3 halaman, menampilkan 3 jenis kategori menu
+Menampilkan Promo - 3 halaman, menampilkan halaman semua promo, promo diskon, dan promo bonus
 
 ## Keterangan Folder
 
